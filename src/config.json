@@ -1,0 +1,8 @@
+{
+    "website": "https://example.com",
+    "alert": "receiver@example.com",
+    "poll-interval": 10,
+    "timeout": 3,
+    "from_email": "sender@gmail.com",
+    "key": "gmail-app-password (not gmail login password)"
+  }
